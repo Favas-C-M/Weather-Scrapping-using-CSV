@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="YhbTh9kF8UKp4Ywa0mSp5g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="af6babda-624c-44e0-9aa2-f2f1e175000e" CvTextArea="256, 377, 55, 40" CvType="AnyWordGroup" DesignTimeRectangle="258, 372, 53, 53" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='wob_tm' tag='SPAN' type='' class='wob_t q8U8x' /&gt;" Guid="f3c6da97-dcd8-4e23-99c4-5dfabf2d35c3" ScopeSelectorArgument="&lt;html app='chrome.exe' title='weather in kadavallur - Google Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6f34e4ae22ca0a0866e293d03571a93c.png" xmlns="">0W2UnhSw6tEqugjll1xN3_w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
